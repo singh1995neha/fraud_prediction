@@ -1,0 +1,1 @@
+Contains data visualizations and plots generated during exploratory data analysis or model evaluation, saved as image files (e.g., PNG or JPEG).
